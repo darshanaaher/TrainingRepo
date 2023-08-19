@@ -1,2 +1,2 @@
 my 2nd git file
-for 2nd test for clone
+for 2nd test
